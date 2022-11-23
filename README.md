@@ -7,3 +7,5 @@ To repozytorium służy do testów połączenia git i Rstudio. Należy wykonać 
 3.  Zainstalować git
 4.  Predstawić się git
 5.  Stworzyć klucz prywatny w Rstudio i dodać go do GitHub
+
+ddaa
