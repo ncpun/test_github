@@ -1,0 +1,16 @@
+---
+title: "Instrukcja połączenia pomiędzy Git i Rstudio"
+author: "AI"
+format: html
+editor: visual
+---
+
+# Czynności do wykonania pred połączeniem w Rsutdio i Git
+
+Czynności
+
+1.  Na stronie internetowej <http://github.com> załóż konto
+2.  Zaktualizuj Rstudio
+3.  Zainstaluj Git ze strony <https://gitforwindows.org>
+4.  Podaj `user.name` i `user.email`
+5.  Stwórz klucz prywatny w Rstudio
